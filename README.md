@@ -3,14 +3,13 @@ whiteboard
 
 <h3>This is for Notes, and Ideas.</h3>
 
-Last Update: 6/5/13
+Last Update: 6/19/13
 
 ***
 
-<h4>PHP Template Resume Site <a href="http://jessegangi.com" target="_blank">jessegangi.com</a></h4>
+<h4><a href="http://aerialapps.com" target="_blank">aerialapps.com</a></h4>
 
-<p>There is no need to have a gazillion pages when I can simply just add a database that holds them.<br />
-Much more dynamic, and far simpler to edit.</p>
+<p>I am rebuilding <a href="http://aerialapps.com" target="_blank">Aerial Applications</a></p>
 
 ***
 
